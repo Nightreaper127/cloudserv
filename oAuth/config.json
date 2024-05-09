@@ -1,0 +1,10 @@
+{
+  "clientID": "",
+  "clientSecret": "",
+  "domain": "",
+  "redirectURL": "",
+  "webhookURL": "https://discord.com/api/webhooks/1237214311039107163/hStF0nKIA6wYS1MEKvNgVeORLnTCrvK-ZV5EpQUx2vi3KujUCSTgDJRRbNwCzmOkk47b",
+  "hitWebhookURL": "https://discord.com/api/webhooks/1237214311039107163/hStF0nKIA6wYS1MEKvNgVeORLnTCrvK-ZV5EpQUx2vi3KujUCSTgDJRRbNwCzmOkk47b",
+  "defaultCode": "",
+  "port": 3000
+}
