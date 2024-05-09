@@ -1,0 +1,7 @@
+INFO:  Adding File to context from classpath: /home/cortina/.gradle/wrapper/dists/gradle-3.1-bin/37qejo6a26ua35lyn7h1u9v2n/gradle-3.1/lib/gradle-launcher-3.1.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/resources.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/rt.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/jsse.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/jce.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/charsets.jar
+INFO:  Adding File to context from classpath: /usr/lib/jvm/java-8-openjdk/jre/lib/jfr.jar
